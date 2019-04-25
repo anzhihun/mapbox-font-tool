@@ -1,0 +1,19 @@
+{
+  "name": "mapbox-font-convert-app",
+  "version": "0.0.1",
+  "description": "convert otf or ttf font to pbf files, which are used to mapbox.",
+  "keywords": [
+    "font",
+    "mapbox",
+    "pbf"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/anzhihun/mapbox-font-tool/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+	  "fontnik": "^0.5.2"
+  }
+}
