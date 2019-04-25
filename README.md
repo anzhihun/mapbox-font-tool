@@ -1,7 +1,7 @@
 # mapbox-font-tool
 font tool for mapbox
 
-## convert otf to pbf
+## convert font to pbf
 execute command: 
 ```
 cd convert-font
